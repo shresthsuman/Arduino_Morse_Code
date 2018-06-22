@@ -2,6 +2,10 @@
 
 Project under "Embedded System Lab Training SS_2018" course, RCSE
 
+### Aim
+To connect a button, display and a beeper to an Arduino. Develop a Morse code trainer that will display one of the keys A-Z. The player should enter the corresponding Morse code.
+
+
 ### Breadboard
 <img width="95%" src="Morse Code_bb.jpg">
 
