@@ -35,5 +35,7 @@ To connect a button, display and a beeper to an Arduino. Develop a Morse code tr
 The main function of this model is to develop a Morse code trainer that will display one of the keys A-Z. The user should enter the Morse code using a button and as a result corresponding alphabet will be displayed on the LCD screen which is connected to an Arduino board via the breadboard (as shown in design) and at the end circuit is completed by connecting it to a power source (batteries or USB source).	
 Beeper and button are connected to the arduino board via 2 digital i/o pins. Button transmits the data to the Arduino board, which will further assess the morse code in dot or dash format. Whenever the button is pressed, the beeper will buzz for dot (1 sec) and dash (1 sec - 3 sec) accordingly. If the button is pressed beyond 3 seconds, the ardiuno will restrict the input to 3 second as a dash.
 	
+	
+### Presentation Link - https://1drv.ms/p/s!AvBSw2wdkAL8m2Wg9U3VrQtUaFZL	
 ### References
 https://www.arduino.cc/en/Tutorial/HelloWorld 
